@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App">
       <Hero />
+      {/* This is cool */}
+      {/* Login soon */}
     </div>
   );
 }
